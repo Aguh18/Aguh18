@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Asep Teguh Hidayat</h1>
 <h3 align="center">Backend developer from Indonesia, diving into the world of Web3 and blockchain. Currently open to job opportunities and always excited to build cool stuff with great teams.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aguh18&label=Profile%20views&color=0e75b6&style=flat" alt="aguh18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aguh18" alt="aguh18" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aguh18&theme=onedark" alt="GitHub Trophy" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Web3 development, including blockchain fundamentals, smart contracts, decentralized applications (DApps), and Web3 integrations.**
 
