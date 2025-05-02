@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asep Teguh Hidayat</h1>
 <h3 align="center">Backend developer from Indonesia, currently open to job opportunities (actively looking for junior backend roles) — always excited to build cool stuff with great teams.</h3>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aguh18.aguh18" alt="visitor badge"/>
+</p>
 
 
 <p align="center">
