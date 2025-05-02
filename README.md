@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asep Teguh Hidayat</h1>
-<h3 align="center">Backend developer from Indonesia, diving into the world of Web3 and blockchain. Currently open to job opportunities and always excited to build cool stuff with great teams.</h3>
+<h3 align="center">Backend developer from Indonesia, currently open to job opportunities (actively looking for junior backend roles) — always excited to build cool stuff with great teams.</h3>
 
 
 <p align="center">
